@@ -1,0 +1,15 @@
+# Credentials & Secrets
+credentials/credentials.env
+.env
+*.env
+
+# Python & Virtual Env
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local Data & SQLite
+data/chroma_db/
+data/ats_pipeline.db
+data/resumes/
